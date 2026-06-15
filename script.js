@@ -1,7 +1,7 @@
 // =====================================================
 // CONFIG — set your timer and banner text here
 // =====================================================
-const TARGET_DATE = new Date("2026-06-15T23:15:00"); // ← Change this date/time
+const TARGET_DATE = new Date("2026-06-15T23:18:00"); // ← Change this date/time
 const BANNER_TEXT = "Happy Birthday Harshiiiii";          // ← Change the banner text
 
 // =====================================================
